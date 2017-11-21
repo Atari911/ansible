@@ -1,3 +1,7 @@
+[windows]
+desk-pc.spohnhome.com
+shannon-pc.spohnhome.com
+
 [webservers]
 dokuwiki.spohnhome.com
 ubuntu-02.spohnhome.com
@@ -17,3 +21,6 @@ media.spohnhome.com
 
 [plex]
 media.spohnhome.com
+
+[vmhosts]
+
